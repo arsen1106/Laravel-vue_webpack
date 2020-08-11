@@ -8,7 +8,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
+    git clone https://github.com/arsen1106/Laravel-vue_webpack.git
 
 Switch to the repo folder
 
